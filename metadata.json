@@ -1,0 +1,6 @@
+{
+  "name": "Tula's International School | The Modern Gurukul, Dehradun",
+  "description": "Premier co-educational residential boarding school in Dehradun, Uttarakhand. Blending ancient Gurukul values with modern CBSE academics, world-class sports academy, and pastoral boarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
